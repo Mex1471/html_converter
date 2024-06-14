@@ -1,0 +1,3 @@
+([('converter_v0.1',
+   '/Users/mcatoglu/html_converter/dist/converter_v0.1',
+   'EXECUTABLE')],)
